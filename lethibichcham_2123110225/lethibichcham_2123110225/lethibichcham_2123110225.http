@@ -1,0 +1,6 @@
+@lethibichcham_2123110225_HostAddress = http://localhost:5146
+
+GET {{lethibichcham_2123110225_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
